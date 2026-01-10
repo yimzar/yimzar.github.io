@@ -4,4 +4,4 @@ This is where I put all of my writeups & projects.
 
 ## Writeups
 
-- [Packets & Frames](yimzar.github.io/tryhackme-writeups/packets_and_frames)
+- [Packets & Frames](tryhackme-writeups/packets-and-frames)
