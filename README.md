@@ -4,4 +4,4 @@ This is where I put all of my writeups & projects.
 
 ## Writeups
 
-- [Packets & Frames] 
+- [Packets & Frames] (tryhackme-writeups/packets_and_frames)
