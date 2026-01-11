@@ -32,11 +32,11 @@ The best answer for this is _______________. I came to this conclusion by lookin
 
 "Any sent data is given a random number sequence and is reconstructed using this number sequence and incrementing by 1. Both computers must agree on the same number sequence for data to be sent in the correct order. This order is agreed upon during three steps:
 
-___ - Client: Here's my Initial Sequence Number(ISN) to ___chronise with (0)
+___ - Client: Here's my Initial Sequence Number(ISN) to SYNchronise with (0)
 
-_______ - Server: Here's my Initial Sequence Number (ISN) to ___chronise with (5,000), and I ___nowledge your initial number sequence (0)
+_______ - Server: Here's my Initial Sequence Number (ISN) to SYNchronise with (5,000), and I ACKnowledge your initial number sequence (0)
 
-___ - Client: I ___nowledge your Initial Sequence Number (ISN) of (5,000), here is some data that is my ISN+1 (0 + 1)"
+___ - Client: I ACKnowledge your Initial Sequence Number (ISN) of (5,000), here is some data that is my ISN+1 (0 + 1)"
 
 Task 3: Practical - Handshake
 
