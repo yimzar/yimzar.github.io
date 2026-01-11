@@ -1,0 +1,93 @@
+body{
+    background-color:black;
+}
+
+header h1{
+    color: purple;
+    font-size:xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header p{
+color: purple;
+font-size:xx-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+header{
+    text-align: center;
+}
+
+.options:active{
+color: rgb(0, 0, 0);
+}
+
+.options:visited{
+    color: black;
+}
+
+.options:link{
+    color: black;
+}
+
+.options:hover{
+    font-size: xx-large;
+}
+
+.options{
+    border: 1px solid blueviolet;
+    border-radius: 3px;
+    background-color: purple;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+
+#projp{
+    margin-top: 40px;
+    color: purple;
+}
+
+
+.icons{
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.icons a{
+    text-decoration: none;
+    margin: 20px;
+}
+
+
+.fa-brands.fa-github.fa-10x{
+    color: purple;
+}
+
+.fa-brands.fa-github.fa-10x:hover{
+    color: hwb(300 0% 30%);
+}
+
+.fa-brands.fa-linkedin.fa-10x{
+    color: purple;
+}
+
+.fa-brands.fa-linkedin.fa-10x:hover{
+    color: hwb(300 0% 30%);
+}
+
+main p{
+    color: purple;
+    margin-top: 25px
+}
+
+
+main h3{
+    color: purple;
+    margin-top: 50px
+}
+
