@@ -28,13 +28,13 @@ In the list of headers the one that fits this description the most is ________. 
 
 2\. Provide the order of a normal Three-way handshake (with each step separated by a comma)
 
-The best answer for this is ___,___/___,___. I came to this conclusion by looking at the first diagram and reading the paragraph underneath it.
+The best answer for this is _______________. I came to this conclusion by looking at the first diagram and reading the paragraph underneath it.
 
 "Any sent data is given a random number sequence and is reconstructed using this number sequence and incrementing by 1. Both computers must agree on the same number sequence for data to be sent in the correct order. This order is agreed upon during three steps:
 
 ___ - Client: Here's my Initial Sequence Number(ISN) to ___chronise with (0)
 
-___/___ - Server: Here's my Initial Sequence Number (ISN) to ___chronise with (5,000), and I ___nowledge your initial number sequence (0)
+_______ - Server: Here's my Initial Sequence Number (ISN) to ___chronise with (5,000), and I ___nowledge your initial number sequence (0)
 
 ___ - Client: I ___nowledge your Initial Sequence Number (ISN) of (5,000), here is some data that is my ISN+1 (0 + 1)"
 
