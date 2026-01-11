@@ -14,8 +14,6 @@ In the first paragraph it says.
 
 "A ______ is a piece of data from Layer 3 (Network Layer) of the OSI model, containing information such as an IP header and payload."
 
-In the second sentence of the first paragraph it says.
-
 2\. What is the name for a piece of data when it does not have IP addressing information?
 
 "A _____, however, is used at Layer 2 (Data Link) of the OSI model, which, encapsulates the packet and adds additional information such as MAC addresses."
